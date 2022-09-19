@@ -6,7 +6,7 @@
 
 ## 🧠 Aprendizado
 
-- Pude praticar bastante as propriedades FlexBox
+- Pude praticar bastante as propriedades FlexBox.
 
 ## 👨‍💻 Visualização do projeto
 
